@@ -1,17 +1,17 @@
 [
   {
     "title": "couscous1",
-    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/anyday israeli couscous.webp",
-    "html_url": "https://mohcine1982.github.io/ksksfoodApp/recipe1.html"
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/images/anyday israeli couscous.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/htmlFiles/recipe1.html"
   },
   {
     "title": "couscous2",
-    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/berley Couscous Salad.webp",
-    "html_url": "https://mohcine1982.github.io/ksksfoodApp/recipe2.html"
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/images/berley Couscous Salad.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/htmlFiles/recipe2.html"
   },
   {
     "title": "couscous3",
-    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/BerleyCouscousRecipe.webp",
-    "html_url": "https://mohcine1982.github.io/ksksfoodApp/recipe3.html"
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/images/BerleyCouscousRecipe.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/htmlFiles/recipe3.html"
   }
 ]
