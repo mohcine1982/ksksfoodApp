@@ -1,17 +1,52 @@
 [
   {
-    "title": "couscous1",
-    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/images/anyday israeli couscous.webp",
-    "html_url": "https://mohcine1982.github.io/ksksfoodApp/htmlFiles/recipe1.html"
+    "title": "Authentic Tunisian Couscous A Mediterranean Delight",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/Authentic Tunisian Couscous A Mediterranean Delight.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/Authentic Tunisian Couscous A Mediterranean Delight.html"
   },
   {
-    "title": "couscous2",
-    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/images/berley Couscous Salad.webp",
-    "html_url": "https://mohcine1982.github.io/ksksfoodApp/htmlFiles/recipe2.html"
+    "title": "carrot and spinach recipes with couscous",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/carrot and spinach recipes with couscous.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/carrot and spinach recipes with couscous.html"
   },
   {
-    "title": "couscous3",
-    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/images/BerleyCouscousRecipe.webp",
-    "html_url": "https://mohcine1982.github.io/ksksfoodApp/htmlFiles/recipe3.html"
+    "title": "couscous chicken legs palestinian recipe",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/couscous chicken legs palestinian recipe.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/couscous chicken legs palestinian recipe.html"
+  },
+   {
+    "title": "couscous soup",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/couscous soup.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/couscous soup.html"
+  },
+   {
+    "title": "Cowboy Caviar Couscous Salad",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/Cowboy Caviar Couscous Salad.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/Cowboy Caviar Couscous Salad.html"
+  },
+   {
+    "title": "Easy Vegetarian Couscous Recipes 12 Fresh",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/Easy Vegetarian Couscous Recipes 12 Fresh.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/Easy Vegetarian Couscous Recipes 12 Fresh.html"
+  },
+   {
+    "title": "Ground Beef Couscous",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/Ground Beef Couscous.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/Ground Beef Couscous.html"
+  },
+  {
+    "title": "moroccan couscous",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/moroccan couscous.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/moroccan couscous.html"
+  },
+   {
+    "title": "Lamb Couscous",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/Lamb Couscous.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/Lamb Couscous.html"
+  },
+   {
+    "title": "Moroccan Chicken Couscous with Sweet Apricot Preserves",
+    "image_url": "https://raw.githubusercontent.com/mohcine1982/ksksfoodApp/main/ksksimages/Moroccan Chicken Couscous with Sweet Apricot Preserves.webp",
+    "html_url": "https://mohcine1982.github.io/ksksfoodApp/kskshtml/Moroccan Chicken Couscous with Sweet Apricot Preserves.html"
   }
 ]
